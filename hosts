@@ -1,0 +1,5 @@
+[all] 
+server1 ansible_host=192.168.68.4 ansible_user=ubuntu
+
+[alt]
+server1 ansible_host=192.168.64.6 ansible_user=ubuntu
